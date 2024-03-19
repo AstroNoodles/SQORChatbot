@@ -1,0 +1,221 @@
+{
+    "division" : "Marketing",
+    "days" : [
+        {
+            "day" : "03/06/2024",
+            "overall score" : 13,
+            "performance" : [
+                {
+                    "tool name" : "Figma",
+                    "status" : "active",
+                    "score" : 0.8,
+                    "percent change" : "N/A"
+                },
+                {
+                    "tool name" : "Google Ads",
+                    "status" : "active",
+                    "score" : 0.8,
+                    "percent change" : "N/A"
+                },
+                {
+                    "tool name" : "Google Analytics",
+                    "status" : "active",
+                    "score" : 0.2,
+                    "percent change" : "N/A"
+                },
+                {
+                    "tool name" : "Flurry",
+                    "status" : "inactive"
+                },
+                {
+                    "tool name" : "MailChimp",
+                    "status" : "inactive"
+                },
+                {
+                    "tool name" : "SendGrid",
+                    "status" : "inactive"
+                }
+            ]
+        },
+        {
+            "day" : "03/07/2024",
+            "overall score": 13,
+            "performance" : [
+                {
+                    "tool name" : "Figma",
+                    "status" : "active",
+                    "score" : 0.8,
+                    "percent change" : 0
+                },
+                {
+                    "tool name" : "Google Ads",
+                    "status" : "active",
+                    "score" : 0.8,
+                    "percent change" : 0
+                },
+                {
+                    "tool name" : "Google Analytics",
+                    "status" : "active",
+                    "score" : 0.2,
+                    "percent change" : 0
+                },
+                {
+                    "tool name" : "Flurry",
+                    "status" : "inactive"
+                },
+                {
+                    "tool name" : "MailChimp",
+                    "status" : "inactive"
+                },
+                {
+                    "tool name" : "SendGrid",
+                    "status" : "inactive"
+                }
+            ]
+        },
+        {
+            "day" : "03/08/2024",
+            "overall score": 13,
+            "performance" : [
+                {
+                    "tool name" : "Figma",
+                    "status" : "active",
+                    "score" : 0.8,
+                    "percent change" : 0
+                },
+                {
+                    "tool name" : "Google Ads",
+                    "status" : "active",
+                    "score" : 0.8,
+                    "percent change" : 0
+                },
+                {
+                    "tool name" : "Google Analytics",
+                    "status" : "active",
+                    "score" : 0.2,
+                    "percent change" : 0
+                },
+                {
+                    "tool name" : "Flurry",
+                    "status" : "inactive"
+                },
+                {
+                    "tool name" : "MailChimp",
+                    "status" : "inactive"
+                },
+                {
+                    "tool name" : "SendGrid",
+                    "status" : "inactive"
+                }
+            ]
+        },
+        {
+            "day" : "03/09/2024",
+            "overall score" : 13,
+            "performance" : [
+                {
+                    "tool name" : "Figma",
+                    "status" : "active",
+                    "score" : 0.8,
+                    "percent change" : 0
+                },
+                {
+                    "tool name" : "Google Ads",
+                    "status" : "active",
+                    "score" : 0.8,
+                    "percent change" : 0
+                },
+                {
+                    "tool name" : "Google Analytics",
+                    "status" : "active",
+                    "score" : 0.2,
+                    "percent change" : 0
+                },
+                {
+                    "tool name" : "Flurry",
+                    "status" : "inactive"
+                },
+                {
+                    "tool name" : "MailChimp",
+                    "status" : "inactive"
+                },
+                {
+                    "tool name" : "SendGrid",
+                    "status" : "inactive"
+                }
+            ]
+        },
+        {
+            "day" : "03/10/2024",
+            "overall score": 13,
+            "performance" : [
+                {
+                    "tool name" : "Figma",
+                    "status" : "active",
+                    "score" : 0.8,
+                    "percent change" : 0
+                },
+                {
+                    "tool name" : "Google Ads",
+                    "status" : "active",
+                    "score" : 0.8,
+                    "percent change" : 0
+                },
+                {
+                    "tool name" : "Google Analytics",
+                    "status" : "active",
+                    "score" : 0.2,
+                    "percent change" : 0
+                },
+                {
+                    "tool name" : "Flurry",
+                    "status" : "inactive"
+                },
+                {
+                    "tool name" : "MailChimp",
+                    "status" : "inactive"
+                },
+                {
+                    "tool name" : "SendGrid",
+                    "status" : "inactive"
+                }
+            ]
+        },
+        {
+            "day" : "03/11/2024",
+            "overall score": 13,
+            "performance" : [
+                {
+                    "tool name" : "Figma",
+                    "status" : "active",
+                    "score" : 0.8,
+                    "percent change" : 0
+                },
+                {
+                    "tool name" : "Google Ads",
+                    "status" : "active",
+                    "score" : 0.8,
+                    "percent change" : 0
+                },
+                {
+                    "tool name" : "Google Analytics",
+                    "status" : "active",
+                    "score" : 0.2,
+                    "percent change" : 0
+                },
+                {
+                    "tool name" : "Flurry",
+                    "status" : "inactive"
+                },
+                {
+                    "tool name" : "MailChimp",
+                    "status" : "inactive"
+                },
+                {
+                    "tool name" : "SendGrid",
+                    "status" : "inactive"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,257 @@
+{
+    "division" : "Product and Engineering",
+    "days" : [
+        {
+            "day" : "03/06/2024",
+            "overall score" : 20,
+            "performance" : [
+                {
+                    "tool name" : "GitHub",
+                    "status" : "active",
+                    "score" : 2.9,
+                    "percent change" : "N/A"
+                },
+                {
+                    "tool name" : "Jira",
+                    "status" : "active",
+                    "score" : 0.3,
+                    "percent change" : "N/A"
+                },
+                {
+                    "tool name" : "Asana",
+                    "status" : "active",
+                    "score" : -0.6,
+                    "percent change" : "N/A"
+                },
+                {
+                    "tool name" : "Confluence",
+                    "status" : "active",
+                    "score" : 1.5,
+                    "percent change": "N/A"
+                },
+                {
+                    "tool name" : "GitLab",
+                    "status" : "active",
+                    "score" : -0.2,
+                    "percent change" : "N/A"
+                },
+                {
+                    "tool name" : "Trello",
+                    "status" : "active",
+                    "score" : 0.8,
+                    "percent change" : "N/A"
+                }
+            ]
+        },
+        {
+            "day" : "03/07/2024",
+            "overall score": 11,
+            "performance" : [
+                {
+                    "tool name" : "GitHub",
+                    "status" : "active",
+                    "score" : 3.8,
+                    "percent change" : 0.24
+                },
+                {
+                    "tool name" : "Jira",
+                    "status" : "active",
+                    "score" : 0.3,
+                    "percent change" : 0
+                },
+                {
+                    "tool name" : "Asana",
+                    "status" : "active",
+                    "score" : -0.6,
+                    "percent change" : 0
+                },
+                {
+                    "tool name" : "Confluence",
+                    "status" : "active",
+                    "score" : 1.5,
+                    "percent change" : 0
+                },
+                {
+                    "tool name" : "GitLab",
+                    "status" : "active",
+                    "score" : -0.2,
+                    "percent change": 0
+                },
+                {
+                    "tool name" : "Trello",
+                    "status" : "active",
+                    "score" : 0.8,
+                    "percent change" : 0
+                }
+            ]
+        },
+        {
+            "day" : "03/08/2024",
+            "overall score": 4,
+            "performance" : [
+                {
+                    "tool name" : "GitHub",
+                    "status" : "active",
+                    "score" : 2,
+                    "percent change" : -0.47
+                },
+                {
+                    "tool name" : "Jira",
+                    "status" : "active",
+                    "score" : 0.5,
+                    "percent change" : 0.4
+                },
+                {
+                    "tool name" : "Asana",
+                    "status" : "active",
+                    "score" : -0.6,
+                    "percent change": 0
+                },
+                {
+                    "tool name" : "Confluence",
+                    "status" : "active",
+                    "score" : 0.8,
+                    "percent change" : -0.47
+                },
+                {
+                    "tool name" : "GitLab",
+                    "status" : "active",
+                    "score" : -0.2,
+                    "percent change": 0
+                },
+                {
+                    "tool name" : "Trello",
+                    "status" : "active",
+                    "score" : 0.8,
+                    "percent change": 0
+                }
+            ]
+        },
+        {
+            "day" : "03/09/2024",
+            "overall score" : 4,
+            "performance" : [
+                {
+                    "tool name" : "GitHub",
+                    "status" : "active",
+                    "score" : 0.2,
+                    "percent change" : -0.9
+                },
+                {
+                    "tool name" : "Jira",
+                    "status" : "active",
+                    "score" : 0.5,
+                    "percent change": 0
+                },
+                {
+                    "tool name" : "Asana",
+                    "status" : "active",
+                    "score" : -0.6,
+                    "percent change": 0
+                },
+                {
+                    "tool name" : "Confluence",
+                    "status" : "active",
+                    "score" : 0.8,
+                    "percent change": 0
+                },
+                {
+                    "tool name" : "GitLab",
+                    "status" : "active",
+                    "score" : -0.2,
+                    "percent change": 0
+                },
+                {
+                    "tool name" : "Trello",
+                    "status" : "active",
+                    "score" : 0.8,
+                    "percent change": 0
+                }
+            ]
+        },
+        {
+            "day" : "03/10/2024",
+            "overall score": 5,
+            "performance" : [
+                {
+                    "tool name" : "GitHub",
+                    "status" : "active",
+                    "score" : 0.2,
+                    "percent change": 0
+                },
+                {
+                    "tool name" : "Jira",
+                    "status" : "active",
+                    "score" : 0.5,
+                    "percent change": 0
+                },
+                {
+                    "tool name" : "Asana",
+                    "status" : "active",
+                    "score" : -0.2,
+                    "percent change" : 0.67
+                },
+                {
+                    "tool name" : "Confluence",
+                    "status" : "active",
+                    "score" : 0.8,
+                    "percent change": 0
+                },
+                {
+                    "tool name" : "GitLab",
+                    "status" : "active",
+                    "score" : -0.2,
+                    "percent change": 0
+                },
+                {
+                    "tool name" : "Trello",
+                    "status" : "active",
+                    "score" : 0.8,
+                    "percent change": 0
+                }
+            ]
+        },
+        {
+            "day" : "03/11/2024",
+            "overall score": 8,
+            "performance" : [
+                {
+                    "tool name" : "GitHub",
+                    "status" : "active",
+                    "score" : 0.5,
+                    "percent change": 0.5
+                },
+                {
+                    "tool name" : "Jira",
+                    "status" : "active",
+                    "score" : 0.2,
+                    "percent change": -0.5
+                },
+                {
+                    "tool name" : "Asana",
+                    "status" : "active",
+                    "score" : -0.2,
+                    "percent change" : 0
+                },
+                {
+                    "tool name" : "Confluence",
+                    "status" : "active",
+                    "score" : 0.8,
+                    "percent change": 0
+                },
+                {
+                    "tool name" : "GitLab",
+                    "status" : "active",
+                    "score" : -0.2,
+                    "percent change": 0
+                },
+                {
+                    "tool name" : "Trello",
+                    "status" : "active",
+                    "score" : 0.8,
+                    "percent change": 0
+                }
+            ]
+        }
+    ]
+}
